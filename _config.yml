@@ -4,12 +4,12 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: Just
 subtitle:
-description:
-author: John Doe
+description: 卦不敢算尽，畏天道无常
+author: Mur
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
@@ -30,6 +30,8 @@ paginate: 10
 #tag:
   #paginate: 10
   #paginate_path: "/page:num/"
+# plugins: [jekyll-paginate]
+# port: 4001
 
 # Handling Reading
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README_en.md", "vendor"]
@@ -736,3 +738,5 @@ images: assets/images
 
 # Theme version
 version: 5.1.1
+
+# - D:\Ruby26-x64
